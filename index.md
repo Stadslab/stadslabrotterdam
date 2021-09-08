@@ -6,15 +6,14 @@ classes: home
 
 ![Stadslab](assets/svg/logo.svg "Stadslab"){: .logo}
 
-## Update 16-12-2020
-Het Stadslab blijft toegankelijk voor studenten die het Stadslab nodig hebben voor het maken van onderwijsopdrachten. Als je individueel aan een opdracht moet werken, kun je één van de faciliteiten reserveren via de [bookingstool van het Stadslab](https://stadslabrotterdam.nl/booking/). In de kerstvakantie zijn wij gesloten.
+## Update 12-07-2021
+Stadslab dicht tijdens de zomervakantie!
 
-Voor verder zijn we via e-mail beschikbaar voor (maak-)vragen en kunnen we je doorverwijzen naar andere maak- faciliteiten. info@stadslabrotterdam.nl Voor onze studenten is er ook een MS Teams pagina Stadslab Support waar je informatie en inspiratie kunt vinden, maar ook terecht kunt met al je vragen.
+Vanaf 19 juli is het Stadslab gesloten! Vanaf 30 augustus zien wij je graag weer op de oude lokatie op Wijnhaven 99. Gebruik ook dan nog steeds onze [bookingstool](https://stadslabrotterdam.nl/booking/).
 
-[Klik direct door naar de booking pagina.](https://stadslabrotterdam.nl/booking/)
+Ook voor externen hopen we weer open te kunnen vanaf 30 augustus. Meer informatie over openingstijden en regels volgt.
 
-We hebben een vacature voor de functie Stadslab steward!\
-[https://hint.hr.nl/nl/Instituten/CMI/CMI-Nieuws/vacature-stadslab/](https://hint.hr.nl/nl/Instituten/CMI/CMI-Nieuws/vacature-stadslab/)
+Fijne zomervakantie!
 
 ---
 
