@@ -6,14 +6,13 @@ classes: home
 
 ![Stadslab](assets/svg/logo.svg "Stadslab"){: .logo}
 
-## Update 12-07-2021
-Stadslab dicht tijdens de zomervakantie!
 
-Vanaf 19 juli is het Stadslab gesloten! Vanaf 30 augustus zien wij je graag weer op de oude lokatie op Wijnhaven 99. Gebruik ook dan nog steeds onze [bookingstool](https://stadslabrotterdam.nl/booking/).
+{% include vacation.html %}
 
-Ook voor externen hopen we weer open te kunnen vanaf 30 augustus. Meer informatie over openingstijden en regels volgt.
 
-Fijne zomervakantie!
+## Update 08-09-2021
+
+De [bookingstool](https://stadslabrotterdam.nl/booking/).is te gebruiken voor onderwijs doeleinden, als je een hobby project wilt maken dan kun je gewoon langs komen en aan de slag als er een machine vrij is.
 
 ---
 

@@ -11,19 +11,22 @@ classes: costs
 | Materiaal | Formaat | Prijs |
 |-------|--------|---------|
 | A1 Printen | 594 x 841 mm  | €3,00 |
-| A2 Printen | 320 x  594 mm | €1,50 |
-| Vinylfolie | per 10 cm | €1,00 |
-| Applicatiefolie | per meter | €2,00 |
-| Koperfolie | 291 x  210 mm | €3,00 |
-| Polystyreen 1.5 mm | 235 x  310 mm | €2,50 |
-| PET-G 1.0 mm | 235 x  310 mm | €3,50 |
-| PLA/ABS | per gram (min 5 g.) | €0,10 |
-| Elektrische snoer  | per meter | €0,25 |
+| A2 Printen | 420 x  594 mm | €1,50 |
+| Sticker folie | per 100 mm | €0,75 |
+| Textiel folie | per 100 mm | €1,50 |
+| Overplakfolie | per meter | €1,50 |
+| Vacuumvormer PS 1.5 mm | 235 x  310 mm | €2,25 |
+| Vacuumvormer PET-G 1.0 mm | 235 x  310 mm | €3,50 |
+| PLA/PETG/ABS | per gram (min 5 g.) | €0,10 |
+| TPU filament | per gram (min 5 g.) | €0,10 |
+| Conductive filament | per gram (min 5 g.) | €0,10 |
 | Acryl | per 100 gram | €1,00 |
 | Triplex | 300 x 600 x 3 | €2,50 |
 | | 400 x 700 x 3 | €4,00 |
 | Multiplex | 300 x 600 x 6 | €4,00 |
 | | 400 x 700 x 6 | €5,50 |
+| A3 markerpapier | 25 stuks | €1,50 |
+
 
 <br>
 
