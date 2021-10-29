@@ -4,8 +4,6 @@ title: Contact
 classes: 
 ---
 
-{% include vacation.html %}
-
 
 **Voor meer informatie over het Stadslab kunt u contact opnemen via [info@stadslabrotterdam.nl](mailto:info@stadslabrotterdam.nl).**
 
