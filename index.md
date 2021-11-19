@@ -7,6 +7,17 @@ classes: home
 ![Stadslab](assets/svg/logo.svg "Stadslab"){: .logo}
 
 
+<div class="videoWrapper no-margin">
+<video width="1280" height="720"  autoplay mute loop>
+<source src="assets/video/stadslab-10.mp4" type="video/mp4">
+</video>
+</div>
+
+### Stadslab 10 Jaar! Save the date! 16 December! 
+
+
+---
+
 ## Update 08-09-2021
 
 De [bookingstool](https://stadslabrotterdam.nl/booking/) is te gebruiken voor onderwijs doeleinden, als je een hobby project wilt maken dan kun je gewoon langs komen en aan de slag als er een machine vrij is.

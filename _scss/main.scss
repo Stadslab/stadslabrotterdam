@@ -72,8 +72,11 @@ main{
     height: 0;
     margin-top:6vw;
     margin-bottom:8vw;
+    &.no-margin{
+        margin:0;
+    }
 }
-.videoWrapper iframe {
+.videoWrapper iframe, .videoWrapper video {
 	position: absolute;
 	top: 0;
 	left: 0;
