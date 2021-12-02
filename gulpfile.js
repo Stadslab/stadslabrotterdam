@@ -54,4 +54,5 @@ watch(['*.html',
         'contact/*',
         'labs/*', 
         'kosten/*' ,
+        '10jaar/*' ,
         'open-badge/**'], series(jekyllBuild,browserSyncReload ));

@@ -7,6 +7,15 @@ classes: home
 ![Stadslab](assets/svg/logo.svg "Stadslab"){: .logo}
 
 
+
+
+
+## Update 15-11-2021
+
+Vanwege de huidige maatregelen omtrent Covid-19 is het Stadslab tijdelijk enkel beschikbaar voor onderwijs doeleinden. Gebruik de [bookingstool](https://stadslabrotterdam.nl/booking/) om zeker te zijn van je plek.
+
+---
+
 <div class="videoWrapper no-margin">
 <video width="1280" height="720"  autoplay mute loop>
 <source src="assets/video/stadslab-10.mp4" type="video/mp4">

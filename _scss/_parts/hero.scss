@@ -14,6 +14,13 @@
             @include ratio(5,2);
         }
     }
+    &--10{
+        @include ratio(21,7);
+        background-image:url('../assets/img/10jaar.jpg');
+        @include phone{
+            @include ratio(21,7);
+        }
+    }
 }
 
 
