@@ -9,7 +9,7 @@ classes: costs
 ## Materiaal Kosten
 
 | Materiaal | Formaat | Prijs |
-|-------|--------|---------|
+    ---------|
 | A1 Printen | 594 x 841 mm  | €3,00 |
 | A2 Printen | 420 x  594 mm | €1,50 |
 | Sticker folie | per 100 mm | €0,75 |
