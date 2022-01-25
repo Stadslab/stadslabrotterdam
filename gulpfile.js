@@ -2,7 +2,7 @@
 
 const { gulp, src, dest, parallel, watch, series } = require('gulp');
 const browserSync = require('browser-sync');
-const sass        = require('gulp-sass');
+const sass        = require('gulp-sass')(require('sass'));
 const prefix      = require('gulp-autoprefixer');
 const cp          = require('child_process');
 const sourcemaps  = require('gulp-sourcemaps');
