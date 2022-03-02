@@ -10,9 +10,11 @@ classes: home
 
 
 
-## Update 15-11-2021
+## Update 21-02-2022
 
-Vanwege de huidige maatregelen omtrent Covid-19 is het Stadslab tijdelijk enkel beschikbaar voor onderwijs doeleinden. Gebruik de [bookingstool](https://stadslabrotterdam.nl/booking/) om zeker te zijn van je plek.
+Beste makers!
+
+Het Stadslab is vanaf volgende week eindelijk weer toegankelijk voor externen! We zijn zo blij om iedereen weer te kunnen ontvangen, dat we volgende week (voorjaarsvakantie) elke dag open inloop houden! We zijn de hele week open van 9.00 – 15.30 uur. Ook willen we jullie kennis laten maken met onze nieuwste aanwinst de digitale borduurmachine. Schrijf je [hier](https://www.aanmelder.nl/stadslabrotterdam/subscribe) in voor een workshop op 1 maart. Na de voorjaarsvakantie gelden weer onze reguliere open inloop momenten, dinsdag 13.00 – 17.00 uur en donderdag 17.00 – 21.00 uur.
 
 ---
 
@@ -25,11 +27,6 @@ Vanwege de huidige maatregelen omtrent Covid-19 is het Stadslab tijdelijk enkel 
 ### Stadslab 10 Jaar! Save the date! 16 December! 
 
 
----
-
-## Update 08-09-2021
-
-De [bookingstool](https://stadslabrotterdam.nl/booking/) is te gebruiken voor onderwijs doeleinden, als je een hobby project wilt maken dan kun je gewoon langs komen en aan de slag als er een machine vrij is.
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: machine
-title: Printers
+title: Recycling
 ---
 
-![](img/epson-surecolor-t3400.jpg)
+![](img/3devo-composer.jpg)
 
-## Epson SureColor T3400
+## 3Devo composer
 
 ### Specificaties
 

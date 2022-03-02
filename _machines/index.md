@@ -15,9 +15,9 @@ classes: machines
     <span>Lasercutters</span>
     ![](../assets/svg/icons/lasercutter.svg "Lasercutters")
 </a>
-<a class="machine--link" href="{{site.baseurl}}/machines/naaimachines" title="Stadslab Rotterdam - Naaimachines">
-    <span>Naaimachines</span>
-    ![Naaimachines](../assets/svg/icons/sewingmachine.svg "Naaimachines")
+<a class="machine--link" href="{{site.baseurl}}/machines/textielbewerking" title="Stadslab Rotterdam - Textielbewerking">
+    <span>Textielbewerking</span>
+    ![Textielbewerking](../assets/svg/icons/sewingmachine.svg "Textielbewerking")
 </a>
 <a class="machine--link" href="{{site.baseurl}}/machines/vacuumformers" title="Stadslab Rotterdam - Vacuum Formers">
     <span>Vacuum Formers</span>
@@ -30,4 +30,16 @@ classes: machines
 <a class="machine--link" href="{{site.baseurl}}/machines/printers" title="Stadslab Rotterdam - Printers">
     <span>Printers</span>
     ![](../assets/svg/icons/posterprinter.svg "Printers")
+</a>
+<a class="machine--link" href="{{site.baseurl}}/machines/cnc-frees" title="Stadslab Rotterdam - CNC-frees">
+    <span>CNC-frees</span>
+    ![](../assets/svg/icons/cnc-mill.svg "CNC-frees")
+</a>
+<a class="machine--link" href="{{site.baseurl}}/machines/recycling" title="Stadslab Rotterdam - Recycling">
+    <span>Recycling</span>
+    ![](../assets/svg/icons/cnc-mill.svg "Recycling")
+</a>
+<a class="machine--link" href="{{site.baseurl}}/machines/immersive-technology" title="Stadslab Rotterdam - Immersive Technology">
+    <span>Immersive Technology</span>
+    ![](../assets/svg/icons/cnc-mill.svg "Immersive Technology")
 </a>
