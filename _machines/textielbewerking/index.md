@@ -53,7 +53,7 @@ title: Textielbewerking
 
 ## Calortrans
 
-### Specificaties
+<!-- ### Specificaties
 
 - 6 professionele stekenprogramma‘s
 - Differentieel transport
@@ -61,5 +61,5 @@ title: Textielbewerking
 - Eenvoudig verwisselen van naaivoetjes
 - Eenvoudig inrijgen
 - Steekbreedte instellen
-- Steeklengte instellen
+- Steeklengte instellen -->
 

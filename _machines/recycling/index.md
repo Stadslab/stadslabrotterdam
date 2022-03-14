@@ -7,7 +7,7 @@ title: Recycling
 
 ## 3Devo composer
 
-### Specificaties
+<!-- ### Specificaties
 
 - Afdrukkwaliteit (best)
 	- Kleur: Tot 1200 x 1200 geoptimaliseerd dpi
@@ -20,4 +20,4 @@ title: Recycling
 - Lijnaccuratesse: ±0,1%[2]
 - Benodigd document formaat: PDF
 
-Kan zowel A1 als A2 printen
+Kan zowel A1 als A2 printen -->
