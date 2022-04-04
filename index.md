@@ -6,19 +6,22 @@ classes: home
 
 ![Stadslab](assets/svg/logo.svg "Stadslab"){: .logo}
 
+Het Stadslab bestaat 10 jaar! We blikken vol trots terug op de afgelopen tien jaar waarin er veel is gebeurd. En dat gaan we vieren, op 2 juni 2022, met jou! 
+Je kunt je nu inschrijven voor **workshops en gesprekstafels**, maar ook tussendoor zijn er ook diverse activiteiten. Neem bijvoorbeeld deel aan de **community lunch** met een Rotterdamse kroepia, volg een **rondleiding in Augmented Reality** of bezoek de **expo van oud-maaksels**! 
 
+### Programma
 
+- **10.00** Feestelijke opening van het jubileum
+- **10.15** Workshop ronde 1
+- **12.00** Community lunch
+- **13.00** Workshop ronde 2
+- **14.30** Workshop ronde 3
+- **16.00** Workshop ronde 4
+- **17.15** Toast en afsluiting
 
+ **Meld je [hier](https://www.stadslabrotterdam.nl/10jaar) aan voor het Stadslab Jubileum op 2 juni 2022!**
 
-## Update 14-03-2022
-
-Welkom makers!
-
-Op 2 juni vieren wij ons 10-jarig jubileum! Op die dag organiseren we zo’n 50 maak workshops en gesprekstafels waar je aan deel kunt nemen! Het is gratis toegankelijk voor jong en oud! Kijk [hier](https://stadslabrotterdam.nl/10jaar) voor meer informatie. 
-
-In aanloop naar ons 10-jarig jubileum op 2 juni organiseren we diverse workshops voor studenten, medewerkers en externen. Schrijf je [hier](https://www.aanmelder.nl/stadslabrotterdam) in.
-
-Sinds kort gelden weer onze reguliere open inloop momenten voor externen, dinsdag 13.00 – 17.00 uur en donderdag 17.00 – 21.00 uur. Tot ziens in het lab! 
+![](assets/img/programma_overzicht.png)
 
 <!-- ---
 
