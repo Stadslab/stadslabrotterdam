@@ -20,9 +20,6 @@ In aanloop naar ons 10-jarig jubileum op 2 juni organiseren we diverse workshops
 
 Sinds kort gelden weer onze reguliere open inloop momenten voor externen, dinsdag 13.00 – 17.00 uur en donderdag 17.00 – 21.00 uur. Tot ziens in het lab! 
 
-
-Het Stadslab is vanaf volgende week eindelijk weer toegankelijk voor externen! We zijn zo blij om iedereen weer te kunnen ontvangen, dat we volgende week (voorjaarsvakantie) elke dag open inloop houden! We zijn de hele week open van 9.00 – 15.30 uur. Ook willen we jullie kennis laten maken met onze nieuwste aanwinst de digitale borduurmachine. Schrijf je [hier](https://www.aanmelder.nl/stadslabrotterdam/subscribe) in voor een workshop op 1 maart. Na de voorjaarsvakantie gelden weer onze reguliere open inloop momenten, dinsdag 13.00 – 17.00 uur en donderdag 17.00 – 21.00 uur.
-
 <!-- ---
 
 <div class="videoWrapper no-margin">
