@@ -1,6 +1,6 @@
 ---
 layout: machine
-title: Vacuum Formers
+title: Vacuum Former
 ---
 
 <br/>

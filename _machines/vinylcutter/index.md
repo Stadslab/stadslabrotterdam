@@ -1,6 +1,6 @@
 ---
 layout: machine
-title: Vinyl Snijders
+title: Vinylcutter
 ---
 
 <br/>

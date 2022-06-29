@@ -1,6 +1,6 @@
 ---
 layout: machine
-title: Printers
+title: Posterprinter
 ---
 
 ![](img/epson-surecolor-t3400.jpg)

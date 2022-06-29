@@ -5,4 +5,6 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 collections:
     machines:
       output: true
+plugins:
+  - jekyll-redirect-from
 #baseurl: /stadslabrotterdam

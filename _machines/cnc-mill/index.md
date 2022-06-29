@@ -1,6 +1,6 @@
 ---
 layout: machine
-title: CNC-Frees
+title: CNC-Mill
 ---
 
 ![](img/stepcraft-420.jpg)

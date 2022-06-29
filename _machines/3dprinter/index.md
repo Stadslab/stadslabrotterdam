@@ -1,6 +1,6 @@
 ---
 layout: machine
-title: 3D Printers
+title: 3D Printer
 ---
 
 **Al onze 3D printers zijn FFF printers (Fused Filament Fabrication) waarbij we voornamelijk gebruik maken van het biologisch afbreekbare materiaal PLA. Hiermee kunnen er op een goedkope manier snel prototypes gemaakt worden.**

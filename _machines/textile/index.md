@@ -1,6 +1,6 @@
 ---
 layout: machine
-title: Textielbewerking
+title: Textitle
 ---
 <br/>
 <br/>

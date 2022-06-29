@@ -1,6 +1,6 @@
 ---
 layout: machine
-title: Lasercutters
+title: Lasercutter
 ---
 
 **Met een lasersnijder kun je materialen zoals hout, acryl of karton graveren of snijden. Voor alle drie de lasercutters is hetzelfde bestand benodigd, namelijk een .AI .DXF of .PDF bestand. De dikte van het materiaal kan (afhankelijk van het materiaal) max. 8 mm dik zijn.**
