@@ -17,7 +17,7 @@ Heb je al een keer een workshop van Stadslab voor een van de 17 badges onderwerp
 
 2. Laat een medewerker van het Stadslab je fysieke handelingen beoordelen.  
 
-3. Lever je bewijzen aan via [dit formulier](https://forms.office.com/Pages/ResponsePage.aspx?id=zrpvyrp8U02GgaBihPf_RtsKiEfK1nJFjplJVN8TUcNUQk01WDI4WkQzWEgxVlNRSllaTjNMWVkxUS4u).  
+3. Lever je bewijzen aan via [dit formulier](https://forms.office.com/r/wPZdGfZH2B).  
 
 4. Maak een EduID aan via [www.edubadges.nl](http://www.edubadges.nl/) (gebruik hiervoor niet je school mailadres) en vraag de badge aan via het Edubadge platform. Vind de juiste link voor jouw badge hier [https://edu.nl/edu9y ](https://edu.nl/edu9y)
 
