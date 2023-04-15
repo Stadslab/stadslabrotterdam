@@ -7,7 +7,7 @@ classes: home
 ![Stadslab](assets/svg/logo.svg "Stadslab"){: .logo}
 
 ## Openingstijden tijdens de zomervakantie
-De zomervakantie staat voor de deur en dat betekent andere openingstijden! Van 7 t/m 22 juli zijn we open van 9.00 – 17.00 uur. De open inloop is dan op dinsdag en op donderdag van 13:00 – 17:00 uur. Van 25 juli tot en met 19 augustus zijn wij gesloten. Van 22 tot en met 26 augustus zijn we weer open van 9.00 – 17.00 uur. De open inloop is dan op dinsdag en op donderdag van 13:00 – 17:00 uur. Daarna hanteren wij weer onze reguliere openingstijden. 
+De zomervakantie staat voor de deur en dat betekent dat onze openingstijden veranderen! Van 7 t/m 22 juli zijn we open van 9.00 – 17.00 uur. De open inloop is dan op dinsdag en op donderdag van 13:00 – 17:00 uur. Van 25 juli tot en met 19 augustus zijn wij gesloten. Van 22 tot en met 26 augustus zijn we weer open van 9.00 – 17.00 uur. De open inloop is dan op dinsdag en op donderdag van 13:00 – 17:00 uur. Daarna hanteren wij weer onze reguliere openingstijden. 
 
 <div class="videoContainer">
 <div class="videoWrapper">
